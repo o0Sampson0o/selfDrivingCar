@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-color: #26408B;
+    overflow: hidden;
+}
+
+#traffic {
+    background-color: #0F084B;
+}
+
+#brain {
+    background-color: black;
+}
